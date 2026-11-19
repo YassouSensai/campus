@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Campus</string>
+    <string name="categories">Catégories</string>
+    <string name="location_unknown">Lieu à confirmer</string>
+    <string name="full">Complet</string>
+    <string name="see_details">Voir</string>
+    <string name="book">Réserver</string>
+    <string name="description">Description</string>
+    <string name="event_image_description">Illustration de l\'événement</string>
+    <string name="log_open_event">Carte ouverte : %1$s</string>
+    <string name="log_book_event">Réservation demandée : %1$s</string>
+
+    <plurals name="available_seats">
+        <item quantity="one">%d place disponible</item>
+        <item quantity="other">%d places disponibles</item>
+    </plurals>
+
+    <string name="category_tech">TECH</string>
+    <string name="category_campus">CAMPUS</string>
+    <string name="category_sport">SPORT</string>
+    <string name="category_loisirs">LOISIRS</string>
+
+    <string name="event1_title">Conférence Kotlin</string>
+    <string name="event1_location">Salle 204</string>
+    <string name="event1_description">Une conférence pour découvrir le développement Android et le langage Kotlin. Présentation des bases, exemples simples et temps de questions avec les intervenants. Les étudiants débutants sont les bienvenus.</string>
+
+    <string name="event2_title">Atelier Jetpack Compose</string>
+    <string name="event2_location">Salle informatique B12</string>
+    <string name="event2_description">Un atelier pratique pour créer un premier écran Android avec Jetpack Compose. Les participants pourront suivre les exemples sur leur ordinateur et poser leurs questions.</string>
+
+    <string name="event3_title">Forum des associations</string>
+    <string name="event3_description">Rencontre avec les associations étudiantes du campus. Découvrez leurs activités et les événements prévus cette année. Les inscriptions sont complètes pour cette session.</string>
+
+    <string name="event4_title">Tournoi de basket</string>
+    <string name="event4_location">Gymnase du campus</string>
+    <string name="event4_description">Tournoi amical de basket entre étudiants. Venez jouer en équipe ou encourager les participants. Pensez à apporter une tenue de sport et une bouteille d\'eau.</string>
+
+    <string name="event5_title">Soirée jeux de société</string>
+    <string name="event5_location">Cafétéria</string>
+    <string name="event5_description">Soirée conviviale autour de plusieurs jeux de société. Tout le monde peut participer, même sans connaître les règles. Les jeux seront prêtés sur place.</string>
+</resources>
